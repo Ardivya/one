@@ -167,7 +167,9 @@
 <body>
     <header>
         <h1>Irfana - DevOps Engineer</h1>
+        <h1>Divya - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
+        <p>Integrated nexus also</p>
         <nav>
             <a href="#about">About</a>
             <a href="#skills">Skills</a>
